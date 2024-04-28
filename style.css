@@ -1,3 +1,6 @@
 body{
-    background-color: yellow;
+    background-color: rgba(189, 34, 34, 0.342);
+}
+.ul{
+    padding: 100px;
 }
